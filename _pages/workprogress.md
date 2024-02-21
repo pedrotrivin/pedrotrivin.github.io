@@ -16,7 +16,7 @@ horizontal: false
 
 <br>
 <div class="publications">
-  <h4 class="category">Work in progress</h4>
+  <h4>Work in progress</h4>
 {% bibliography -f papers -q @*[papercat =3]* %}
 </div>
 

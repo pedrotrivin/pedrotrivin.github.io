@@ -11,6 +11,10 @@ horizontal: false
 <!-- pages/workprogress.md -->
 <div class="publications">
   <h4>Working papers</h4>
-  {% bibliography -f papers -q @*[papercat =2]* %}
-</div>
 
+{% for entry in site.bibliography.entries %}
+  {% if entry.papercat == 2 %}
+        {% include simplebib.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}

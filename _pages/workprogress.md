@@ -4,7 +4,7 @@ title: Working papers & Work in progress
 permalink: /workprogress/
 description:
 nav: false
-nav_order: 
+nav_order: 2
 horizontal: false
 ---
 

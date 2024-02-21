@@ -19,3 +19,4 @@ horizontal: false
   <h4 class="category">Work in progress</h4>
   {% bibliography -f papers --template bibsimple -q @*[papercat =3]* %}
 </div>
+

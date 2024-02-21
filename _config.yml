@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  pedro.trivin[at]unimi.it
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -285,8 +285,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Trivin]
+  first_name: [Pedro]
 
   style: apa
   locale: en
@@ -358,7 +358,7 @@ imagemagick:
     - ".tiff"
     - ".gif"
   output_formats:
-    webp: "-quality 85"
+    webp: "-resize 800x"
 
 # Lazy loading images
 #   If you enable lazy loading, all images will add the loading="lazy" attribute.

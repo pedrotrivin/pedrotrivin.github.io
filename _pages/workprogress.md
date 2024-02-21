@@ -11,12 +11,6 @@ horizontal: false
 <!-- pages/workprogress.md -->
 <div class="publications">
   <h4>Working papers</h4>
-  {% bibliography -f papers -q @*[papercat =2]* %}
-</div>
-
-<br>
-<div class="publications">
-  <h4>Work in progress</h4>
-{% bibliography -f papers -q @*[papercat =3]* %}
+  {% bibliography -f papers -q @*[papercat =1]* %}
 </div>
 

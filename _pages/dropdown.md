@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Research
 nav: true
-nav_order: 8
+nav_order: 1
 dropdown: true
 children:
-  - title: publications
+  - title: Publications
     permalink: /publications/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Work in progress
+    permalink: /workprogress/
 ---

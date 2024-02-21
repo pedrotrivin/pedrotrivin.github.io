@@ -13,8 +13,8 @@ horizontal: false
 <div class="publications">
   <h4>Working papers</h4>
 
-# [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329)
-with [Ignacio Gonzalez](https://www.ignacioglez.com/)
+# [<span style="color:inherit;text-decoration:inherit;">The Global Rise of Asset Prices and the Decline of the Labor Share</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329) with [Ignacio Gonzalez](https://www.ignacioglez.com/)
+
 
 
 

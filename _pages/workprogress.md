@@ -24,7 +24,7 @@ horizontal: false
 
 - Populim and the Rule of Law: The Importance of Institutional Legacies, with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES).
 
-  - Occupational Change across Generations, with [Annalisa Cristini](https://didattica-rubrica.unibg.it/ugov/person/3083).
+- Occupational Change across Generations, with [Annalisa Cristini](https://didattica-rubrica.unibg.it/ugov/person/3083).
   
 - Class-size Effects and Human Capital-based Growth with Depopulation: 
 Theory and Empirics, with [Alberto Bucci](https://www.unimi.it/it/ugov/person/alberto-bucci), [Lorenzo Carbonari](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), and [Giovanni Trovato](https://economia.uniroma2.it/faculty/77/trovato-giovanni).

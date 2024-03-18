@@ -16,13 +16,13 @@ horizontal: false
 
   - [Family Finances and Debt Overhang: Evolving Consumption Patterns of Spanish Households](https://docs.iza.org/dp15222.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala). *R&R Economic Modelling*.
 
+ - [Populim and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES).
+
   <br>
 
   <h4>Work in progress</h4>
 
 - Unveiling the Local Effects of Minimum Wage Policies: Evidence from the Spanish 2019 Reform, with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
-
-- Populim and the Rule of Law: The Importance of Institutional Legacies, with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES).
 
 - Occupational Change across Generations, with [Annalisa Cristini](https://didattica-rubrica.unibg.it/ugov/person/3083).
   

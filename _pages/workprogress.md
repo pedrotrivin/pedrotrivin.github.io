@@ -15,7 +15,7 @@ horizontal: false
   
   - [Family Finances and Debt Overhang: Evolving Consumption Patterns of Spanish Households](https://docs.iza.org/dp15222.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala). *R&R Economic Modelling*.
 
- - [Populim and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES). *R&R American Journal of Political Science*.
+ - [Populism and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES). *R&R American Journal of Political Science*.
 
   - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/).
 

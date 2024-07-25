@@ -29,3 +29,4 @@ horizontal: false
 
 - Occupational Change across Generations, with [Annalisa Cristini](https://didattica-rubrica.unibg.it/ugov/person/3083).
   
+- Impartiality and Clientelism: How Sequencing Matters, with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES).

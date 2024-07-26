@@ -5,8 +5,8 @@ permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
-  image: Foto_Trivin1.jpg
+  align: right
+  image: Foto_Trivin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
      <p>Università degli studi di Milano</p>

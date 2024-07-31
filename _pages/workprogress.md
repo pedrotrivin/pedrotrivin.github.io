@@ -13,7 +13,7 @@ horizontal: false
   <h4>Working papers</h4>
 
   
-  - [Family Finances and Debt Overhang: Evolving Consumption Patterns of Spanish Households](https://docs.iza.org/dp15222.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala). *Economic Modelling*, Conditionally Accepted.
+  - [Household Finances, Debt Overhang and Consumption Patterns](https://docs.iza.org/dp15222.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala). *Economic Modelling*, Accepted.
 
  - [Populism and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES). *R&R American Journal of Political Science*.
 

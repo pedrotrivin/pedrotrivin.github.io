@@ -8,6 +8,9 @@ nav_order: 6
 ---
 
 <!-- _pages/publications.md -->
-<div class="publications">
-{% bibliography -f papers -q @*[papercat =1]* %}
-</div>
+
+
+  <h4>Publications</h4>
+
+  
+Pub1

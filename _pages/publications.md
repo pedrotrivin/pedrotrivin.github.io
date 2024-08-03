@@ -10,7 +10,7 @@ nav_order: 6
 <!-- _pages/publications.md -->
 
 
-  <h4>Publications</h4>
+  <h4>Peer-reviewed journals</h4>
 
   
   - [Sala, H](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (Forthcoming): [Household Finances, Debt Overhang and Consumption Patterns](https://www.sciencedirect.com/science/article/pii/S0264999324001937), *Economic Modelling*.
@@ -35,3 +35,18 @@ in Troublesome Times, *SERIEs*, vol. 5 (2-3), pp. 197-221.
 
 - Sala, H. and P. Trivín (2014): Does Capitalism Enhance the Labor Share? A Critique of Young and
 Lawson (2014), *Politica economica - Journal of Economic Policy (PEJEP)*, vol. 2-3/2014, pp. 261-298.
+
+
+  <br>
+
+  <h4>Book chapters</h4>
+
+Trivín, P. (forthcoming): Marginal Propensity to Consume. In Labeaga, J.M. and Molina, J.A.,
+editors, *Elgar Encyclopedia of Consumption*.
+
+  <br>
+
+  <h4>Other publications</h4>
+
+Sala, H. and P. Trivin (2018): (Des)empleo y Ciclo Econónomico: Heterogeneidades y Asimetrías
+Recientes y en Perspectiva Histórica, *Papeles de Economía Española*, vol. 156, pages 2-17.

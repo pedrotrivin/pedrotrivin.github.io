@@ -13,7 +13,7 @@ nav_order: 6
 <h4>Peer-reviewed journals</h4>
 
   
- - [Sala, H.](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (2024): [Household Finances, Debt Overhang and Consumption Patterns](https://www.sciencedirect.com/science/article/pii/S0264999324001937), *Economic Modelling*. [[Replication Package](https://data.mendeley.com/datasets/3mt2h3f4cj/2)].
+ - [Sala, H.](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (2024): [Household Finances, Debt Overhang and Consumption Patterns](https://www.sciencedirect.com/science/article/pii/S0264999324001937), *Economic Modelling*, vol. 139. [[Replication Package](https://data.mendeley.com/datasets/3mt2h3f4cj/2)].
 
  - [Cristini, A.](https://didattica-rubrica.unibg.it/ugov/person/3083) and P. Trivin (2022): [Close Encounters during a Pandemic: Social Habits and Inter-Generational Links in the First Two Waves of COVID-19](https://www.sciencedirect.com/science/article/pii/S1570677X22000764), *Economics and Human Biology*, vol. 47.
 

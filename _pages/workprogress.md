@@ -12,7 +12,7 @@ horizontal: false
 
   <h4>Working papers</h4>
 
- - [Populism and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES). *R&R American Journal of Political Science*.
+ - [Populism and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES). *American Journal of Political Science* (Conditionally Accepted).
 
  - [Class-size Effects and Human Capital-based Growth with Depopulation: Theory and Empirics](https://ceistorvergata.it/RePEc/rpaper/RP575.pdf), with [Alberto Bucci](https://www.unimi.it/it/ugov/person/alberto-bucci), [Lorenzo Carbonari](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), and [Giovanni Trovato](https://economia.uniroma2.it/faculty/77/trovato-giovanni). *R&R Macroeconomic Dynamics*.
 

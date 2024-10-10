@@ -16,6 +16,8 @@ horizontal: false
 
  - [Class-size Effects and Human Capital-based Growth with Depopulation: Theory and Empirics](https://ceistorvergata.it/RePEc/rpaper/RP575.pdf), with [Alberto Bucci](https://www.unimi.it/it/ugov/person/alberto-bucci), [Lorenzo Carbonari](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), and [Giovanni Trovato](https://economia.uniroma2.it/faculty/77/trovato-giovanni). *R&R Macroeconomic Dynamics*.
 
+ - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/). (Permanent WP).
+
 
   <br>
 
@@ -27,8 +29,3 @@ horizontal: false
   
 - Impartiality and Clientelism: How Sequencing Matters, with [Andreas Kyriacou](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES).
 
- <br>
-
-  <h4>Non-active papers</h4>
-
-   - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/). 

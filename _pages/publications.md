@@ -12,7 +12,7 @@ nav_order: 6
 
 <h4>Peer-reviewed journals</h4>
 
- - [Kyriacou, A.](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES) and P. Trivin: [Populism and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), *American Journal of Political Science* (Conditionally Accepted).
+ - [Kyriacou, A.](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES) and P. Trivin: [Populism and the Rule of Law: The Importance of Institutional Legacies](https://mpra.ub.uni-muenchen.de/120343/1/MPRA_paper_120343.pdf), *American Journal of Political Science* (Accepted).
   
  - [Sala, H.](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (2024): [Household Finances, Debt Overhang and Consumption Patterns](https://www.sciencedirect.com/science/article/pii/S0264999324001937), *Economic Modelling*, vol. 139. [[Replication Package](https://data.mendeley.com/datasets/3mt2h3f4cj/2)].
 

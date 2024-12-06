@@ -23,7 +23,7 @@ horizontal: false
 
   <h4>Work in progress</h4>
 
-  - Raising the floor: The Impact of a Minimum Wage Surge on Gender Pay Disparities in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastián](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal).
+  - Raising the floor: The Impact of a Minimum Wage Surge on Gender Pay Disparities in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastian](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal).
 
 - Unveiling the Local Effects of Minimum Wage Policies: Evidence from the Spanish 2019 Reform, with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
 

@@ -12,7 +12,7 @@ nav_order: 6
 
 <h4>Peer-reviewed journals</h4>
 
-- [Bucci, A.](https://www.unimi.it/it/ugov/person/alberto-bucci), [Carbonari, L.](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), Trivin, P., and [Trovato, G.](https://economia.uniroma2.it/faculty/77/trovato-giovanni) (Accepted): [Class-size Effects and Human Capital-based Growth with Depopulation: Theory and Empirics](https://ceistorvergata.it/RePEc/rpaper/RP575.pdf), *Macroeconomic Dynamics*.
+- [Bucci, A.](https://www.unimi.it/it/ugov/person/alberto-bucci), [Carbonari, L.](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), Trivin, P., and [G. Trovato](https://economia.uniroma2.it/faculty/77/trovato-giovanni) (Accepted): [Class-size Effects and Human Capital-based Growth with Depopulation: Theory and Empirics](https://ceistorvergata.it/RePEc/rpaper/RP575.pdf), *Macroeconomic Dynamics*.
 
  - [Kyriacou, A.](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES) and P. Trivin (2024): [Populism and the Rule of Law: The Importance of Institutional Legacies](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12935), *American Journal of Political Science*.  [[Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LUXWMV)].
   

@@ -13,9 +13,6 @@ horizontal: false
   <h4>Working papers</h4>
 
 
-
- - [Class-size Effects and Human Capital-based Growth with Depopulation: Theory and Empirics](https://ceistorvergata.it/RePEc/rpaper/RP575.pdf), with [Alberto Bucci](https://www.unimi.it/it/ugov/person/alberto-bucci), [Lorenzo Carbonari](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), and [Giovanni Trovato](https://economia.uniroma2.it/faculty/77/trovato-giovanni). *R&R Macroeconomic Dynamics*.
-
  - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/). (Permanent WP).
 
 
@@ -23,7 +20,7 @@ horizontal: false
 
   <h4>Work in progress</h4>
 
-  - Raising the floor: The Impact of a Minimum Wage Surge on Gender Pay Disparities in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastian](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal).
+- Raising the floor: The Impact of a Minimum Wage Surge on Gender Pay Disparities in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastian](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal).
 
 - Unveiling the Local Effects of Minimum Wage Policies: Evidence from the Spanish 2019 Reform, with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
 

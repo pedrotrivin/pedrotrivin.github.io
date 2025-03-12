@@ -19,10 +19,10 @@ horizontal: false
   <br>
 
   <h4>Work in progress</h4>
+  
+- [Minimum Wage and Consumption: Lessons from Spain's 2019 Hike](https://www.dropbox.com/scl/fi/6wq63phs9q9ljmkha9n9f/MinimumWageandConsumption_28.02.2025-1.pdf?rlkey=4ibft00idohwmgvc8u4qr4o59&st=6vfm7xa5&dl=0), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
 
 - Raising the floor: The Impact of a Minimum Wage Surge on Gender Pay Disparities in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastian](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal).
-
-- Unveiling the Local Effects of Minimum Wage Policies: Evidence from the Spanish 2019 Reform, with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
 
 - Occupational Change across Generations, with [Annalisa Cristini](https://didattica-rubrica.unibg.it/ugov/person/3083).
   

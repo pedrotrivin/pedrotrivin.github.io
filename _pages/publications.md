@@ -38,7 +38,7 @@ nav_order: 6
 
 <h4>Book chapters</h4>
 
- - Trivin, P. (forthcoming): Marginal Propensity to Consume. In Labeaga, J.M. and Molina, J.A., editors, *Elgar Encyclopedia of Consumption*.
+ - Trivin, P. (forthcoming): [Marginal Propensity to Consume](https://www.dropbox.com/scl/fi/0kgi2bfm77ta049279ntr/MPC_chapter.pdf?rlkey=2iirmybhl5ol44ikh0ac4erp0&st=rrubgnb5&dl=0). In Labeaga, J.M. and Molina, J.A., editors, *Elgar Encyclopedia of Consumption*.
 
 <br>
 

@@ -12,7 +12,7 @@ horizontal: false
 
   <h4>Working papers</h4>
 
-- [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://www.dropbox.com/scl/fi/92ic8x56db8vv0xijuk71/GST_May25.pdf?rlkey=c98flzxfyjf8xadyuevebu6vs&dl=0), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
+- [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://docs.iza.org/dp17923.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
 
  - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/). (Permanent WP).
 

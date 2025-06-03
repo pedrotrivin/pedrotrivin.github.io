@@ -13,6 +13,7 @@ horizontal: false
   <h4>Working papers</h4>
 
 - [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://docs.iza.org/dp17923.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/).
+Media coverage: [*La Vanguardia*.](https://www.lavanguardia.com/economia/20250603/10746893/subida-smi-provoco-aumento-consumo-electronica-ocio.html)
 
  - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/). (Permanent WP).
 

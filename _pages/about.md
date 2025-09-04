@@ -19,4 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website. I am a Senior Assistant Professor (RTD-B) of Economics at the [Deparment of Studies for Economics and Business](https://www.uniupo.it/en/departments/disei), [University of Eastern Piedmont](https://www.uniupo.it/en), and I hold a Ph.D. in Economics from Universitat Autònoma de Barcelona (2016). This site provides you with all the relevant information about my background and research.
+
+Welcome to my website. I am a Senior Assistant Professor (RTD-B) of Economics in the [Deparment of Studies for Economics and Business](https://www.uniupo.it/en/departments/disei)
+ at the [University of Eastern Piedmont](https://www.uniupo.it/en).
+ 
+ I earned my Ph.D. in Economics from the Universitat Autònoma de Barcelona in 2016. Here you will find detailed information about my academic background, research interests, and ongoing projects.

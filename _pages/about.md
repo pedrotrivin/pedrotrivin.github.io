@@ -9,9 +9,9 @@ profile:
   image: Foto_Trivin1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Università degli studi di Milano</p>
-     <p>Department of Economics, Management and Quantitative Methods</p>
-     <p>Via Conservatorio 7, Milano. Office: 29.</p>
+     <p>University of Eastern Piedmont</p>
+     <p>Deparment of Studies for Economics and Business</p>
+     <p>Via Perrone 10, Novara. Office: TBC.</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website. I am an Assistant Professor (RTD-A) of Economics at the [Department of Economics, Management and Quantitative Methods](https://demm.unimi.it/en/home) of the [University of Milan](https://www.unimi.it/en), and I hold a Ph.D. in Economics from Universitat Autònoma de Barcelona (2016). This site provides you with all the relevant information about my background and research.
+Welcome to my website. I am a Senior Assistant Professor (RTD-B) of Economics at the [Deparment of Studies for Economics and Business](https://www.uniupo.it/en/departments/disei), [University of Eastern Piedmont](https://www.uniupo.it/en), and I hold a Ph.D. in Economics from Universitat Autònoma de Barcelona (2016). This site provides you with all the relevant information about my background and research.

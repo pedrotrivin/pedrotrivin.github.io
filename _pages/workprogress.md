@@ -25,7 +25,7 @@ horizontal: false
   <h4>Work in progress</h4>
   
 
-- Gender Gap and Minimum Wage Policy in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastian](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal). *[(Slides)]*(https://www.dropbox.com/scl/fi/1b57wasr67f6g54b3op6m/Min_Wage_and_Gender_Gap.pdf?rlkey=v2yfhwkb2pysjef329l7dzutw&dl=0)
+- Gender Gap and Minimum Wage Policy in Spain, with [Ignacio Gonzalez](https://www.ignacioglez.com/) and [Raquel Sebastian](https://sites.google.com/ucm.es/raquelsebastian/p%C3%A1gina-principal). [(Slides)](https://www.dropbox.com/scl/fi/1b57wasr67f6g54b3op6m/Min_Wage_and_Gender_Gap.pdf?rlkey=v2yfhwkb2pysjef329l7dzutw&dl=0)
 
 - Occupational Change across Generations, with [Annalisa Cristini](https://didattica-rubrica.unibg.it/ugov/person/3083).
   

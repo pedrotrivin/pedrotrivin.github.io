@@ -15,7 +15,7 @@ horizontal: false
 - [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://docs.iza.org/dp17923.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/). *R&R at the Journal of Public Economics*  
   Media coverage: *[La Vanguardia](https://www.lavanguardia.com/economia/20250603/10746893/subida-smi-provoco-aumento-consumo-electronica-ocio.html)*
 
-- [The Extension of Collective Agreements in Fissured Workplaces: The Case of Temp Agency Workers](https://www.dropbox.com/scl/fi/eiqncgadt6g0rbdnqhqt7/TempAgency_CollectiveBargaining_Submission.pdf?rlkey=exf87l9hj3tuje26ton81m6si&dl=0), with [Ferran Elias](https://sites.google.com/site/ferraneliasmoreno/ferran-elias) and [José Ignacio Silva](https://sites.google.com/view/joseisilvabe/)
+- [The Extension of Collective Agreements in Fissured Workplaces: The Case of Temp Agency Workers](https://www.dropbox.com/scl/fi/j7n2eg5w01s5owz2vprnn/ExtensionCollectiveAgreements.pdf?rlkey=gwtujpedk89ahld3xr4luz53b&st=1kzatslk&dl=0), with [Ferran Elias](https://sites.google.com/site/ferraneliasmoreno/ferran-elias) and [José Ignacio Silva](https://sites.google.com/view/joseisilvabe/)
 
  - [The Global Rise of Asset Prices and the Decline of the Labor Share](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2964329), with [Ignacio Gonzalez](https://www.ignacioglez.com/). (Permanent WP).
 

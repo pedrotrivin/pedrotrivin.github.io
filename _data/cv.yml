@@ -42,3 +42,12 @@
     - title: BSc in Economics
       institution: Universidad de Oviedo
       year: 2010
+
+- title: Academic Qualifications
+  type: time_table
+  contents:
+    - title: Italian Scientific Qualification (ASN) - Associate Professor of Economics (13/A1)
+      year: 2025-2037
+
+    - title: Italian Scientific Qualification (ASN) - Associate Professor of Economic Policy (13/A2)
+      year: 2025-2037

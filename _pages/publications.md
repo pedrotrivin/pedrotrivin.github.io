@@ -15,6 +15,7 @@ nav_order: 6
 - [Bucci, A.](https://www.unimi.it/it/ugov/person/alberto-bucci), [Carbonari, L.](https://economia.uniroma2.it/faculty/129/carbonari-lorenzo), Trivin, P., and [G. Trovato](https://economia.uniroma2.it/faculty/77/trovato-giovanni) (2025): [Human Capital-based Growth with Depopulation and Class-size effects: Theory and Empirics](https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/human-capitalbased-growth-with-depopulation-and-classsize-effects-theory-and-empirics/00F194C1B380154523B27AE46E11801F#article), *Macroeconomic Dynamics*, vol. 29, pages 1-18.
 
  - [Kyriacou, A.](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES) and P. Trivin (2024): [Populism and the Rule of Law: The Importance of Institutional Legacies](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12935), *American Journal of Political Science*.  [[Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LUXWMV)].
+  Media coverage: *[El Pais](https://elpais.com/opinion/2026-02-17/el-estado-de-derecho-bajo-presion-en-estados-unidos.html)*
   
  - [Sala, H.](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (2024): [Household Finances, Debt Overhang and Consumption Patterns](https://www.sciencedirect.com/science/article/pii/S0264999324001937), *Economic Modelling*, vol. 139. [[Replication Package](https://data.mendeley.com/datasets/3mt2h3f4cj/2)].
 

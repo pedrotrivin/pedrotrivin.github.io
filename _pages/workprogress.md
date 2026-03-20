@@ -12,7 +12,7 @@ horizontal: false
 
   <h4>Working papers</h4>
 
-- [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://docs.iza.org/dp17923.pdf), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/). *R&R at the Journal of Public Economics*  
+- [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268735), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/). *R&R at the Journal of Public Economics*  **(NEW VERSION!)**
   Media coverage: *[La Vanguardia](https://www.lavanguardia.com/economia/20250603/10746893/subida-smi-provoco-aumento-consumo-electronica-ocio.html)*
 
 - [The Extension of Collective Agreements in Fissured Workplaces: Wage Premiums, Spillovers and Rent-Sharing](https://www.dropbox.com/scl/fi/1kf500viq5is8zqx9epx4/ExtensionCollectiveAgreements_REStud_submission.pdf?rlkey=u0sbsimgqkti8viny2tz2079h&st=k9jlscxc&dl=0), with [Ferran Elias](https://sites.google.com/site/ferraneliasmoreno/ferran-elias) and [José Ignacio Silva](https://sites.google.com/view/joseisilvabe/). *Submitted*

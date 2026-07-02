@@ -12,7 +12,7 @@ horizontal: false
 
   <h4>Working papers</h4>
 
-- [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268735), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/). *R&R at the Journal of Public Economics, 2nd round*
+- [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268735), with [Hector Sala](https://espainnova.uab.cat/es/hector_sala) and [Ignacio Gonzalez](https://www.ignacioglez.com/). *Accepted at the Journal of Public Economics*
 
   Media coverage: *[La Vanguardia](https://www.lavanguardia.com/economia/20250603/10746893/subida-smi-provoco-aumento-consumo-electronica-ocio.html)*
 

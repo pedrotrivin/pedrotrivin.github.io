@@ -13,7 +13,7 @@ nav_order: 6
 <h4>Peer-reviewed journals</h4>
 
 
-- [Gonzalez, I.](https://www.ignacioglez.com/), [Sala, H.](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (2026): [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://www.sciencedirect.com/science/article/pii/S0047272726001465?via%3Dihub), *Journal of Public Economics*, volume 260, August 2026, 105710.
+- [Gonzalez, I.](https://www.ignacioglez.com/), [Sala, H.](https://espainnova.uab.cat/es/hector_sala) and P. Trivin (2026): [Consumption Responses to a Major Minimum Wage Increase: Evidence from Spain](https://www.sciencedirect.com/science/article/pii/S0047272726001465?via%3Dihub), *Journal of Public Economics*, volume 260, August 2026, 105710.  
   Media coverage: *[La Vanguardia](https://www.lavanguardia.com/economia/20250603/10746893/subida-smi-provoco-aumento-consumo-electronica-ocio.html)*
 
 - [Kyriacou, A.](https://www.udg.edu/ca/directori/pagina-personal?ID=2001744&language=es-ES) and P. Trivin (2026): [Populism and the Rule of Law: The Importance of Institutional Legacies](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12935), *American Journal of Political Science*, 70: 104–119.  [[Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LUXWMV)].  

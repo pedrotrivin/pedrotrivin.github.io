@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 3
 ---
+- [El salario mínimo, más allá del empleo: renta, consumo y economía local](https://costedeoportunidad.com/el-salario-minimo-mas-alla-del-empleo) (*Coste de Oportunidad*)
 - [Què passa amb el consum quan puja el salari mínim?](https://www.5centims.cat/que-passa-amb-el-consum-quan-puja-el-salari-minim/) (*5 centims.cat*)
 - [¿Qué ocurre con el consumo cuando sube el salario mínimo?](https://nadaesgratis.es/admin/que-ocurre-con-el-consumo-cuando-sube-el-salario-minimo) (*Nada es Gratis*)
 - [¿Cómo afecta el valor de tu vivienda a tu consumo?](https://nadaesgratis.es/admin/como-afecta-el-valor-de-tu-vivienda-a-tu-consumo) (*Nada es Gratis*)
